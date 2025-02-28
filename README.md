@@ -1,7 +1,5 @@
 # Cryptocurrency Data Analysis using Python
 
-![Project Image](https://socialify.git.ci/aloukik16/Cryptocurrency-Data-Analysis/image?language=1&name=1&theme=Light)
-
 ## 📜 Description
 This project fetches real-time cryptocurrency data using the CoinMarketCap API and analyzes key metrics. It involves data extraction, transformation, and visualization to gain insights into market trends, price movements, and other essential financial indicators.
 
