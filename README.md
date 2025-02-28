@@ -7,11 +7,11 @@ This project fetches real-time cryptocurrency data using the CoinMarketCap API a
 
 ## 📸 Project Screenshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/example-screenshot-1)
+![Screenshot 1]![Screenshot 2025-02-28 111135](https://github.com/user-attachments/assets/77b65bd0-1929-4c35-8735-36b6f320948c)
 
-![Screenshot 2](https://github.com/user-attachments/assets/example-screenshot-2)
 
-![Screenshot 3](https://github.com/user-attachments/assets/example-screenshot-3)
+![Screenshot 2]![Screenshot 2025-02-28 111141](https://github.com/user-attachments/assets/72507eeb-8e46-41d1-9cfb-d1030023bb5e)
+
 
 ## 🧐 Features
 
